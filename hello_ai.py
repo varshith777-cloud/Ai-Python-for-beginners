@@ -1,1 +1,0 @@
-print("hello AI,I am starting my python journey")
